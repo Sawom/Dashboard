@@ -19,3 +19,10 @@
     color: white;
     font-weight: bold;
 }
+
+.whiteBox{
+    background-color: white;
+    color: black;
+    width: 96%;
+    border-radius: 30px;
+}
