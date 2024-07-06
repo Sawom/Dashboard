@@ -74,7 +74,7 @@ html, body {
 .styledHr1{
     border: 0;
     height: 10px;
-    background: linear-gradient(to right, darkgreen 40%, darkgray 20%);
+    background: linear-gradient(to right, darkgreen 30%, darkgray 20%);
     border-radius: 10px;
 }
 
@@ -85,3 +85,9 @@ html, body {
     border-radius: 10px;
 }
 
+.styledHr3{
+    border: 0;
+    height: 10px;
+    background: linear-gradient(to right, darkgreen 50%, darkgray 20%);
+    border-radius: 10px;
+}
