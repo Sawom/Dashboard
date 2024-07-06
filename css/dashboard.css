@@ -70,3 +70,18 @@ html, body {
 .paddingRight{
     padding-right: 10px;
 }
+
+.styledHr1{
+    border: 0;
+    height: 10px;
+    background: linear-gradient(to right, darkgreen 40%, darkgray 20%);
+    border-radius: 10px;
+}
+
+.styledHr2{
+    border: 0;
+    height: 10px;
+    background: linear-gradient(to right, darkgreen 60%, darkgray 20%);
+    border-radius: 10px;
+}
+
