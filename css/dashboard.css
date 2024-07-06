@@ -4,8 +4,8 @@
 }
 
 .space{
-    margin-left: 10%;
-    margin-top: 10%;
+    padding-left: 10%;
+    padding-top: 10%;
 }
 
 .customLinks{
@@ -24,5 +24,19 @@
     background-color: white;
     color: black;
     width: 96%;
+    padding: 5px;
     border-radius: 30px;
+}
+
+.textColor{
+    color: #878787;
+}
+
+.textBold{
+    font-weight: bold;
+}
+
+.flexSpace{
+    display: flex;
+    justify-content: space-between;
 }
