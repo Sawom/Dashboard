@@ -1,5 +1,9 @@
-.back{
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
     background-color: black;
+    width: 98%;
     color: white;
 }
 
@@ -23,7 +27,7 @@
 .whiteBox{
     background-color: white;
     color: black;
-    width: 96%;
+    width: 100%;
     padding: 5px;
     border-radius: 30px;
 }
@@ -39,4 +43,13 @@
 .flexSpace{
     display: flex;
     justify-content: space-between;
+}
+
+.textStyle{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.paddingRight{
+    padding-right: 10px;
 }
